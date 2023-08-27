@@ -44,7 +44,7 @@ def convert_to_bio_format(data):
                     slots_bio[start_idx + j] = f'I-{slot_name}'
 
     return {
-        'utterance': data['text'],
+        'text': data['text'],
         'slots': slots_bio
     }
 
