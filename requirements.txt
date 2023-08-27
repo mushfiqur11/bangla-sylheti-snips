@@ -1,0 +1,6 @@
+transformers
+datasets
+python-dotenv
+pymongo
+sentencepiece
+git+https://github.com/csebuetnlp/normalizer
