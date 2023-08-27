@@ -15,4 +15,4 @@ englishVocab = englishTokenizer.get_vocab()
 
 unified_tokenizer = AutoTokenizer.from_pretrained("csebuetnlp/banglabert", additional_special_tokens=list(englishVocab.keys()))
 
-unified_tokenizer.save_pretrained('unified_tokenizer')
+unified_tokenizer.save_pretrained('bn_eng_codeswitch_tokenizer')
