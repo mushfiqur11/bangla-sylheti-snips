@@ -13,6 +13,6 @@ englishVocab = englishTokenizer.get_vocab()
 #     if token not in unified_vocab:
 #         unified_vocab[token] = max(unified_vocab.values()) + 1
 
-unified_tokenizer = AutoTokenizer.from_pretrained("csebuetnlp/banglabert", additional_special_tokens=list(englishVocab.keys()))
+unified_tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased", additional_special_tokens=list(banglaVocab.keys()))
 
 unified_tokenizer.save_pretrained('bn_eng_codeswitch_tokenizer')
