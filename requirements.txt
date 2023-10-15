@@ -4,3 +4,4 @@ python-dotenv
 pymongo
 sentencepiece
 git+https://github.com/csebuetnlp/normalizer
+matplotlib
