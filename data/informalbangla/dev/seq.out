@@ -1,0 +1,33 @@
+O B-restaurant I-restaurant B-partySize O O O O O O
+O O O O O O B-restaurant I-restaurant I-restaurant O O O
+O O O O B-restaurant I-restaurant I-restaurant O B-partySize O O O O O O
+O O B-category I-category I-category O O O O O O O O O O O
+B-location I-location I-location I-location I-location I-location I-location I-location O O O
+O O O O O O
+B-contact I-contact I-contact O O O O O O
+B-contact I-contact O O O O O O
+B-place I-place O O O O O
+O B-place1 I-place1 I-place1 O B-place2 I-place2 I-place2 I-place2 O O O O O O O
+O O O B-location O O O O O O
+O O B-restaurant I-restaurant I-restaurant O B-partySize O O O O
+B-place1 I-place1 O B-place2 I-place2 O O O O O O
+O O O O O O O O
+O O O O O B-restaurant O O O O O O O O O O O
+O O O B-contact I-contact O O O
+B-place I-place I-place O O O
+O O B-restaurant I-restaurant I-restaurant B-partySize O O O O
+O O O O O O O B-restaurant I-restaurant I-restaurant I-restaurant I-restaurant O O O O O
+O O B-contact I-contact O O
+O O O O
+B-location I-location I-location I-location I-location O O O O
+O O O O O O B-restaurant I-restaurant I-restaurant I-restaurant I-restaurant I-restaurant I-restaurant I-restaurant O O O O O
+O O O O O O O O O O
+B-place1 I-place1 O B-place2 I-place2 O O O O O O
+O O B-restaurant I-restaurant I-restaurant I-restaurant O O O O O O O O O O
+O O O O O O O O B-restaurant I-restaurant I-restaurant B-partySize O O O O O
+B-place I-place O O O O O O
+O O O B-location O O O O O O O O O
+O O O O O O
+B-restaurant I-restaurant O B-partySize O O O O O O O O O O O
+O O O O B-destination I-destination I-destination O O O O O
+O O O O B-category I-category I-category I-category O O

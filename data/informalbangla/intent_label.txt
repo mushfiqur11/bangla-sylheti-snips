@@ -1,0 +1,11 @@
+UNK
+BookRestaurant
+ShareETA
+GetPlaceDetails
+ShareCurrentLocation
+ComparePlaces
+GetDirections
+GetTrafficInformation
+RequestRide
+SearchPlace
+GetWeather
